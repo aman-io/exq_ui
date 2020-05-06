@@ -16,3 +16,4 @@ _build/
 .*.swp
 *.swo
 stdout
+/.elixir_ls
